@@ -18,7 +18,7 @@ namespace ContosoUniversity.Models
         public ICollection<Enrollment> Enrollments { get; set; }
 
         //test OverPost
-        public string Secret { get; set; }
+        //public string Secret { get; set; }
     }
 }
 
